@@ -7,7 +7,7 @@
 * [x] [Exercício 2 — Fluxograma Parte 1.](https://github.com/Devsgeeknerd/exe-2-flu-par-1-exe-pra-est-rep-bas)
 * [x] [Exercício 2 — Fluxograma Parte 2.](https://github.com/Devsgeeknerd/exe-2-flu-par-2-exe-par-est-rep-bas)
 * [x] [Exercício 3 — Fluxograma.](https://github.com/Devsgeeknerd/exe-3-flu-est-rep-bas)
-* [ ] [Exercício 4 — Fluxograma.](https://github.com/Devsgeeknerd/exe-4-flu-est-rep-bas) &#128679;
+* [x] [Exercício 4 — Fluxograma.](https://github.com/Devsgeeknerd/exe-4-flu-est-rep-bas)
 
 <!-- Informações -->
 ## &#8505; Informações
