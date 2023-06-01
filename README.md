@@ -3,7 +3,7 @@
 
 ***Exercícios:***
 
-* [ ] [Exercício 1 — Estrutura de Repetição.](https://github.com/Devsgeeknerd/exe-1-est-rep-exe-pra-est-rep-bas) &#128679;
+* [x] [Exercício 1 — Estrutura de Repetição.](https://github.com/Devsgeeknerd/exe-1-est-rep-exe-pra-est-rep-bas)
 * [ ] [Exercício 2 — Fluxograma Parte 1.](https://github.com/Devsgeeknerd/exe-2-flu-par-1-exe-pra-est-rep-bas) &#128679;
 * [ ] [Exercício 2 — Fluxograma Parte 2.](https://github.com/Devsgeeknerd/exe-2-flu-par-2-exe-par-est-rep-bas) &#128679;
 * [ ] [Exercício 3 — Fluxograma.](https://github.com/Devsgeeknerd/exe-3-flu-est-rep-bas) &#128679;
